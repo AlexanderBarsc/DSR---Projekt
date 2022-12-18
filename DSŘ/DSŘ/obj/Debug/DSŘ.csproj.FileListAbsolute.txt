@@ -1,10 +1,10 @@
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\bin\Debug\DSŘ.exe.config
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\bin\Debug\DSŘ.exe
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\bin\Debug\DSŘ.pdb
-C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.csproj.AssemblyReference.cache
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.Main.resources
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.Properties.Resources.resources
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.csproj.GenerateResource.cache
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.exe
 C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.pdb
+C:\Users\Alex\Documents\GitHub\DSR---Projekt\DSŘ\DSŘ\obj\Debug\DSŘ.csproj.AssemblyReference.cache
