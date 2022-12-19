@@ -114,7 +114,7 @@ namespace DSŘ
         /// <param name="e"></param>
         private void ConnectButton_Click(object sender, EventArgs e)
         {
-            int result = 0; //TODO add better error handling
+            int result = 0; 
             if(!Client.Connected)
             {
                 try
@@ -194,13 +194,22 @@ namespace DSŘ
             }
             
         }
-
+        /// <summary>
+        /// Method to change the frequency of the counter clock.
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
         private int ChangeClockRate(byte value)
         {
             byte[] arr = { value };
             return Client.DBWrite(4, 3, 1, arr);
         }
 
+        /// <summary>
+        /// Admin mode logic.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void AdminMode_Click(object sender, EventArgs e)
         {
             if(!Client.Connected)
@@ -219,6 +228,11 @@ namespace DSŘ
             }
         }
 
+        /// <summary>
+        /// Log off
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void LogOffAdmin_Click(object sender, EventArgs e)
         {
             AdminModeStatus = false;
@@ -228,5 +242,6 @@ namespace DSŘ
         {
             ErrorTextBox.Text = string.Empty;
         }
+
     }
 }
